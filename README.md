@@ -1,11 +1,11 @@
-# PrintFlow — Printing Service System Management
+# PrintFast — Printing Service System Management
 
 **Course:** IMS566 — Advanced Web Design Development and Content Management  
 **Project type:** Individual project prototype  
 **Theme:** Green and white
 
 ## 1. Project description
-PrintFlow is a responsive front-end web application prototype for a printing service business. It provides a single interface for viewing order statistics, reviewing and updating print orders, browsing printing services, and viewing customer records.
+PrintFast is a responsive front-end web application prototype for a printing service business. It provides a single interface for viewing order statistics, reviewing and updating print orders, browsing printing services, and viewing customer records.
 
 This project uses sample data and simulated authentication. It does not connect to a database or process real customer orders.
 
@@ -47,7 +47,7 @@ The Bootstrap and Chart.js libraries are loaded from CDNs, so an internet connec
 2. Open `index.html` in Google Chrome.
 3. Sign in with the demo credentials above.
 
-For the best development workflow, open the folder in a code editor such as Visual Studio Code and use a local development server.
+For the best development workFast, open the folder in a code editor such as Visual Studio Code and use a local development server.
 
 ## 6. Publish using GitHub Pages
 1. Create a new GitHub repository, for example `printing-service-system-management`.
@@ -66,4 +66,4 @@ For the best development workflow, open the folder in a code editor such as Visu
 - Customer accounts are saved in the browser (localStorage) and are not secure; orders reset on refresh.
 
 ## 8. Suggested project title for submission
-**Printing Service System Management: PrintFlow Web Application Prototype**
+**Printing Service System Management: PrintFast Web Application Prototype**
