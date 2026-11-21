@@ -1,4 +1,4 @@
-/* PrintFlow demo application logic.
+/* PrintFast demo application logic.
    All data is sample data held in the browser. No backend/database is connected. */
 "use strict";
 
@@ -289,7 +289,7 @@ document.addEventListener("DOMContentLoaded", () => {
       $("#appShell").classList.remove("d-none");
       applyRole(user);
       showPage(user.role === "admin" ? "dashboard" : "myorders");
-      showToast("Welcome to PrintFlow.");
+      showToast("Welcome to PrintFast.");
     } else {
       $("#loginAlert").classList.remove("d-none");
       $("#password").setAttribute("aria-invalid", "true");
